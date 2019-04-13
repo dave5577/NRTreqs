@@ -1,0 +1,15 @@
+uid,ref,text
+OptReq1,SciReq1,Must allow for the maximum beam diameter and allow for mirror removal without damage
+OptReq2,SciReq1,M1 mirror obscuration from M2 and support structures (vanes) must be less than 1/3 total 
+OptReq3,SciReq1,M1 mirror must fit within the max diameter of re-aluminising chamber (4.2m)
+OptReq4,SciReq2,Mirror coatings must be industry standard aluminium providing consistent performance across the required wavelength spectrum
+OptReq5,,The telescope mirror(s) will require re-coating at regular intervals
+OptReq6,,Baffle designs must be optimised across full wavelength range and balance optical and infra-red requirements
+OptReq7,,The baffle design should not adversely affect image quality
+OptReq8,,The telescope will be a Richley-Chretien (RC) design
+OptReq9,,The f-ratio will be 7.5 with f/1.75 M1
+OptReq10,,The back focal distance will be 2.5m
+OptReq11,,Two autoguiders will allow closed loop tracking in both Alt rotation and Cass rotation
+OptReq12,,Closed loop tracking with autoguiders will allow stable tracking over 50 minutes
+OptReq13,,"With a segmented M1 mirror, phasing will be required to ensure the mirrors are co-phased. Actuators must allow phasing in the order of lamda/4 =100nm"
+OptReq14,,Distance between top of M1 'bowl' and elevation axis shall be >0.3m and less than 1m.
