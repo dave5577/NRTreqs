@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: SciReq2
+reviewed: 485c30a768f8cdd675a5d311e8eaeae0
+text: |
+  Mirror coatings must be industry standard aluminium providing consistent performance across the required wavelength spectrum

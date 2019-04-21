@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: ''
+reviewed: ba566c5aa2a9155cab4a2b1d1237c3fa
+text: |
+  Two autoguiders will allow closed loop tracking in both Alt rotation and Cass rotation

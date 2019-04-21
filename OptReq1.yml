@@ -1,0 +1,10 @@
+active: true
+derived: false
+level: 1.0
+links:
+- SciReq1: f98ee6536d2298a147d9daac5eaae813
+normative: true
+ref: SciReq1
+reviewed: e6c5eb25e431bf4e3ad7af61c0f62612
+text: |
+  Must allow for the maximum beam diameter and allow for mirror removal without damage

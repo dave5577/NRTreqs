@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: ''
+reviewed: 4f3abb26e0bb9288620632af565ba18c
+text: |
+  With a segmented M1 mirror, phasing will be required to ensure the mirrors are co-phased. Actuators must allow phasing in the order of lamda/4 =100nm

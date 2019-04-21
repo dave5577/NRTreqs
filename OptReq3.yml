@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: SciReq1
+reviewed: d132cfe525c6bf071d740818c05937f2
+text: |
+  M1 mirror must fit within the max diameter of re-aluminising chamber (4.2m)

@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: SciReq1
+reviewed: 914eded18a8922a19ea31aa8bf470ec7
+text: |
+  M1 mirror obscuration from M2 and support structures (vanes) must be less than 1/3 total

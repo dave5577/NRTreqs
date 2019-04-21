@@ -1,0 +1,9 @@
+active: true
+derived: false
+level: 1.0
+links: []
+normative: true
+ref: ''
+reviewed: 739f8944852bf3073fad5716761fe1d5
+text: |
+  Closed loop tracking with autoguiders will allow stable tracking over 50 minutes
